@@ -1,3 +1,4 @@
+```python
 a = 42
 b = 0b101010
 c = 0o52
@@ -8,3 +9,16 @@ g = 0x00002A
 h = 0b00101010
 i = 0o00052
 j = 42e0
+
+print(a == 42)
+print(b == 42)
+print(c == 42)
+print(d == 42)
+print(e == 42)
+print(f == 42)
+print(g == 42)
+print(h == 42)
+print(i == 42)
+print(j == 42)
+~~~
+~~~
