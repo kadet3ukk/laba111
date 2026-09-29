@@ -1,7 +1,10 @@
-# zadanie 1
-
-~~~
-hhhhhhhfg
-jjuj
-jjk
-~~~
+a = 42
+b = 0b101010
+c = 0o52
+d = 0x2A
+e = 42.0
+f = 4.2e1
+g = 0x00002A
+h = 0b00101010
+i = 0o00052
+j = 42e0
