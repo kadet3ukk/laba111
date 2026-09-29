@@ -22,5 +22,5 @@ print(g == 42)
 print(h == 42)
 print(i == 42)
 print(j == 42)
-...
-~~~
+```
+
